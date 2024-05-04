@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+}
+input#standard-basic {
+  height: 0 !important;
+}
+
+#scroll {
+  scrollbar-width: thin;
+}
